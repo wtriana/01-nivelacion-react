@@ -1,0 +1,12 @@
+div.counterContainer {
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+}
+
+button{
+    font-size: 2rem;
+    cursor: pointer;
+    margin: 20px;
+}
